@@ -17,7 +17,7 @@ Yazılım mühendisi adayı bir 10. sınıf öğrencisiyim. Geliştirme süreçl
 - 💻 **Linux & Sistem:** Ubuntu ekosisteminde terminal tabanlı araçlar ve Python ile otomasyonlar geliştiriyorum.
 
 ### 📊 GitHub İstatistiklerim
-![Alperen's Stats](https://github-readme-stats.vercel.app/api?username=dalperen1212&show_icons=true&theme=tokyonight)
+![Alperen's Stats](https://github-stats-alpha.vercel.app/api?username=dalperen1212&cc=000&tc=fff&ic=f97316&bc=000)
 
 ---
 "Öğrenmeye ve üretmeye devam..."
