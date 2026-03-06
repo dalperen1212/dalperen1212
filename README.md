@@ -5,7 +5,7 @@ Yazılım mühendisi adayı bir 10. sınıf öğrencisiyim. Geliştirme süreçl
 ### 🛠️ Teknolojiler & Araçlar
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,html,css,js,linux,bash,fastapi,git,github,figma" />
+    <img src="https://skillicons.dev/icons?i=py,html,css,js,linux,bash,fastapi,git,github,figma,azure,cloudflare,django,express,linkedin,mongodb,netlify,nodejs,postman,ubuntu,unreal,vercel,vscode" />
   </a>
 </p>
 
