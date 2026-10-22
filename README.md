@@ -1,6 +1,6 @@
 # Selam, ben Alperen! 👋
 
-Yazılım mühendisi adayı bir 10. sınıf öğrencisiyim. Geliştirme süreçlerimi Ubuntu Linux üzerinde sürdürüyor ve temel mühendislik prensiplerine odaklanıyorum.
+Yazılım mühendisi adayı bir 11. sınıf öğrencisiyim. Geliştirme süreçlerimi Ubuntu Linux üzerinde sürdürüyor ve temel mühendislik prensiplerine odaklanıyorum.
 
 ### 🛠️ Teknolojiler & Araçlar
 <p align="left">
